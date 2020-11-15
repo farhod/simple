@@ -1,5 +1,2 @@
-asdsada
-
-
-
-111222333
+<?php
+echo "Hello world";
